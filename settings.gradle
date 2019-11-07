@@ -1,2 +1,1 @@
-include ':app', ':annotation', ':processor'
-rootProject.name='ButterKnife'
+include ':app', ':annotation', ':processor', ':butterknife'
