@@ -5,7 +5,6 @@ import com.google.auto.service.AutoService;
 
 import java.io.IOException;
 import java.io.Writer;
-import java.util.LinkedHashSet;
 import java.util.Set;
 
 import javax.annotation.processing.AbstractProcessor;
