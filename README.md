@@ -474,8 +474,8 @@ public class MainActivity extends AppCompatActivity {
 
 ![运行结果](https://upload-images.jianshu.io/upload_images/10992781-7a1af402d7982d49.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-# 项目完整地址
+# 个人简书地址
 
-https://github.com/Geekholt/ButterKnife
+https://www.jianshu.com/u/ae6d42bbd950
 
 
